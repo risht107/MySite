@@ -26,7 +26,7 @@ url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-publication: ""
+publication: downloads/leadpaper.pdf
 featured: false
 date: 2022-05-15T18:39:31.593Z
 url_slides: ""
