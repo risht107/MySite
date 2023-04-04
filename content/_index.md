@@ -8,10 +8,6 @@ sections:
   - block: hero
     content:
       title: Hi! Welcome to my website!
-      image:
-        filename: hero-academic.png
-      text: |-
-      **Use this site to learn more about me!**
       
 
         <!--Custom spacing-->
