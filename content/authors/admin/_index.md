@@ -1,5 +1,5 @@
 ---
-avatar_filename: dsc04599-copy.png
+avatar_filename: ""
 bio: ""
 interests: []
 social:
