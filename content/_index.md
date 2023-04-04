@@ -13,7 +13,6 @@ sections:
       text: |-
       **Use this site to learn more about me!**
       
-      Below you can find my interests, recent publications, and more.
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
