@@ -29,7 +29,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Monmouth Junction, NJ
-          date_start: ''
+          date_start: '2020-09-01'
           date_end: ''
           description: |2-
               Courses:
@@ -56,7 +56,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: ''
+          date_start: '2020-09-01'
           description: ''
           organization: 
           organization_url: 
