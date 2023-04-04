@@ -4,15 +4,15 @@ publication_types:
 authors:
   - admin
 abstract: "The federal government does not currently have a maximum containment
-  level of lead. In other words, major cities with lead in their drinking water
+  level (MCL) of lead. In other words, major cities with lead in their drinking water
   are not federally required to bring down the lead content as long as they have
   an action plan put in place to do so. This action plan may be vague or take
   many months to execute. This report examines the health risks associated with
-  lead found in drinking water and how establishing an MCL for lead can decrease
+  lead found in US drinking water and how establishing an MCL for lead can decrease
   health risks associated with the chemical. "
 draft: false
 slides: ""
-url_pdf: ""
+url_pdf: downloads/leadpaper.pdf
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
