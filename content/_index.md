@@ -29,8 +29,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Monmouth Junction, NJ
-          date_start: '2020-09'
-          date_end: '2024-06'
+          date_start: ''
+          date_end: ''
           description: |2-
               Courses:
 
@@ -54,13 +54,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.sbschools.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: ''
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: 
+          organization_url: 
+          title: 
           url: ''
     design:
       columns: '2'
