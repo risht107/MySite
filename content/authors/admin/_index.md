@@ -19,7 +19,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: High School Junior
+role: High School Student
 highlight_name: true
 title: Rishan Tilve
 first_name: Alice
