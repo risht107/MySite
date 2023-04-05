@@ -13,7 +13,7 @@ main:
   - name: Accomplishments
     url: '#accomplishments'
     weight: 40
-  - name: Publications
+  - name: Projects
     url: '#publications'
     weight: 50
   - name: Contact
