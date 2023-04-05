@@ -13,7 +13,9 @@ abstract: "The federal government does not currently have a maximum containment
 draft: false
 # slides: ""
 url_pdf: https://docs.google.com/document/d/1IPRwpwL8vmeAFT7Yb82Etej4pwpS7cVXUCRwEiEmm6I/edit?usp=sharing
-# summary: ""
+summary: "This report examines the health risks associated with
+  lead found in US drinking water and how establishing an MCL for lead can decrease
+  health risks associated with the chemical."
 # url_dataset: ""
 # url_project: ""
 # author_notes: []

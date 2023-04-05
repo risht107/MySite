@@ -12,8 +12,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://docs.google.com/document/d/1Vh91-oL8zgQ3UTSoqRiAABKuekt0U1Zy9ZWJI_sWmeI/edit?usp=sharing
-organizations: []
-education: 
+organizations: 
+education:
   - name: South Brunswick High School
   courses: 
     - course: Chemistry
