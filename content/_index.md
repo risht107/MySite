@@ -42,45 +42,40 @@ sections:
               * Mobile Application Development
     design:
       columns: '2'
-  - block: accomplishments
-    id: accomplishments
-    content:
+  # - block: accomplishments
+  #  id: accomplishments
+  #  content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+     # title: 'Accomplishments'
+    #  subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      # date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: 
-          date_end: ''
-          date_start: '2020-09-01'
-          description: ''
-          organization: 
-          organization_url: 
-          title: 
-          url: ''
-    design:
-      columns: '2'
+    #  items:
+     #   - certificate_url: 
+     #     date_end: ''
+     #     date_start: '2020-09-01'
+      #    description: ''
+    #      organization: 
+    #      organization_url: 
+    #      title: 
+    #      url: ''
+    # design:
+    #  columns: '2'
   - block: collection
     id: publications
     content:
       title: Projects
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
