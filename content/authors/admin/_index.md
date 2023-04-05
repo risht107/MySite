@@ -14,14 +14,7 @@ social:
     link: https://docs.google.com/document/d/1Vh91-oL8zgQ3UTSoqRiAABKuekt0U1Zy9ZWJI_sWmeI/edit?usp=sharing
 organizations: [South Brunswick High School]
 education: 
-  courses: [
-  * Chemistry
-  * Biology
-  * Physics 1
-  * Calculus BC
-  * Computer Science 
-  * Mobile Application Development
-  ]
+  courses: []
 superuser: true
 status:
   icon: ☕️
