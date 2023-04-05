@@ -12,7 +12,7 @@ abstract: "The federal government does not currently have a maximum containment
   health risks associated with the chemical. "
 draft: false
 slides: ""
-url_pdf: leadpaper.pdf
+url_pdf: uploads/leadpaper.pdf
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
