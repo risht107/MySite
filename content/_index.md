@@ -28,7 +28,7 @@ sections:
         - title: Student
           company: South Brunswick High School
           company_url: ''
-          company_logo: org-gc
+          company_logo: ''
           location: Monmouth Junction, NJ
           date_start: '2020-09-01'
           date_end: ''
