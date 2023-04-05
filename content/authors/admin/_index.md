@@ -11,10 +11,17 @@ social:
     link: https://github.com/risht107
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://docs.google.com/document/d/1Vh91-oL8zgQ3UTSoqRiAABKuekt0U1Zy9ZWJI_sWmeI/edit?usp=sharing
 organizations: []
-education:
-  courses: []
+education: South Brunswick High School
+  courses: [
+  * Chemistry
+  * Biology
+  * Physics 1
+  * Calculus BC
+  * Computer Science 
+  * Mobile Application Development
+  ]
 superuser: true
 status:
   icon: ☕️
