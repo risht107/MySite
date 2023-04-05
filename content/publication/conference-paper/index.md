@@ -13,7 +13,7 @@ abstract: "The federal government does not currently have a maximum containment
 draft: false
 # slides: ""
 url_pdf: https://docs.google.com/document/d/1IPRwpwL8vmeAFT7Yb82Etej4pwpS7cVXUCRwEiEmm6I/edit?usp=sharing
-summary: ""
+# summary: ""
 # url_dataset: ""
 # url_project: ""
 # author_notes: []
@@ -28,11 +28,6 @@ title: Establishing a Maximum Containment Level Policy for Lead in Drinking Wate
 doi: ""
 tags: []
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: ""
 publishDate: 2017-01-01T00:00:00.000Z
 # url_poster: ""
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
