@@ -27,7 +27,7 @@ email: rishantilve@gmail.com
 ---
 I'm a student at South Brunswick High School passionate about using engineering to improve the health and lifestyles of thousands of Americans across the country. I am captivated by the possibility of using math and science to reduce environmental disasters and enhance access to quality healthcare.
 
-Courses:
+# Courses:
 
 * Chemistry
 * Biology
@@ -36,4 +36,4 @@ Courses:
 * Computer Science A
 * Mobile Application Development
 
-{style="text-align: justify;"}
+{style="text-align: left;"}
