@@ -91,7 +91,7 @@ sections:
       title: Contact Me
       subtitle:
       text: |-
-        If you have any questions, fill out the form below and I will get back to you as soon as possible.
+        If you have any questions or recipe requests, fill out the form below and I will get back to you as soon as possible.
       # Contact (add or remove contact options as necessary)
       email: rishantilve@gmail.com
       # phone: 888 888 88 88
