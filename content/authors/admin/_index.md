@@ -24,13 +24,13 @@ highlight_name: true
 title: Rishan Tilve
 first_name: Alice
 email: rishantilve@gmail.com
----
-
-Hi! Welcome to my website. Check out my latest creations below. 
 # I'm a student at South Brunswick High School passionate about using 
 # engineering to improve the health and lifestyles of thousands of Americans  
 # across the country. I am captivated by the possibility of using math and 
 # science to reduce environmental disasters and enhance access to quality healthcare.
+---
+
+Hi! Welcome to my website. Check out my latest creations below. 
 
 
 {style="text-align: justify;"}
