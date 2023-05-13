@@ -66,14 +66,6 @@ sections:
     #      url: ''
     # design:
     #  columns: '2'
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="pictures" >}}
-    design:
-      columns: '1'
   - block: collection
     id: publications
     content:
@@ -84,6 +76,15 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
+  - block: markdown
+    id: pics
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="pictures" >}}
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:

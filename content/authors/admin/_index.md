@@ -9,9 +9,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/risht107
-  - icon: cv
-    icon_pack: ai
-    link: https://docs.google.com/document/d/1Vh91-oL8zgQ3UTSoqRiAABKuekt0U1Zy9ZWJI_sWmeI/edit?usp=sharing
+  # - icon: cv
+  #  icon_pack: ai
+  #  link: https://docs.google.com/document/d/1Vh91-oL8zgQ3UTSoqRiAABKuekt0U1Zy9ZWJI_sWmeI/edit?usp=sharing
 organizations: []
 education:
   courses: []
@@ -27,6 +27,10 @@ email: rishantilve@gmail.com
 ---
 
 Hi! Welcome to my website. Check out my latest creations below. 
-# I'm a student at South Brunswick High School passionate about using engineering to improve the health and lifestyles of thousands of Americans  across the country. I am captivated by the possibility of using math and science to reduce environmental disasters and enhance access to quality healthcare.
+# I'm a student at South Brunswick High School passionate about using 
+# engineering to improve the health and lifestyles of thousands of Americans  
+# across the country. I am captivated by the possibility of using math and 
+# science to reduce environmental disasters and enhance access to quality healthcare.
+
 
 {style="text-align: justify;"}
